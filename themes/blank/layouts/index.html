@@ -1,33 +1,88 @@
 {{ define "main" }}
 
-<div id="front-container">
+<div id="splash-container">
+  <div class="row">
+    <div class="logo"></div>
+    <p>Welcome to the</p>
+    <div class="title">
+      XR Wordsmiths <br />
+      Solarpunk Storytelling Showcase
+    </div>
 
-    <div class="row">
-      <div class="column">
-        <h3><span style="color: var(--tango)"> XR Wordsmiths</span></h3>
-        <h4>Solarpunk Storytelling Showcase</h4>
-       
-      </div>
-      
-      <div class="column">
-        <img src="/images/front.png" class="front-page-img">
-      </div>
-      <!-- <div class="column">
-        <img src="/images/turtle-blue-only.png" class="front-page-img">
-      </div> -->
-   </div>
+    <div>
+      <p>
+        This collection lives on a solar-powered server as part of the Solar
+        Protocol Project. Visit the showcase
+        <a href="http://solarpunk.solarprotocol.net/">here.</a>
+      </p>
+      <p>
+        If the sun isn't shining and the site is down, please visit the
+        non-solar version
+        <a href="http://www.solarpunkstorytelling.com/home/">here</a>.
+      </p>
+    </div>
   </div>
+</div>
+<style>
+  banner a {
+    color: #fce86a;
+  }
+  body {
+    font-family: var(--font-family-crimson_text);
+    background: left bottom no-repeat, var(--festival-2);
+  }
+  .logo {
+    position: absolute;
+    top: 4px;
+    right: 3.5%;
+    width: 25%;
+  }
+  .title {
+    font-family: var(--font-family-fucxedcaps-regular);
+    font-size: 8vw;
+    color: var(--red-violet);
+    text-decoration: none;
+  }
+  .topnav {
+    visibility: hidden;
+    height: 0;
+    padding: 0;
+  }
+  p {
+    font-family: var(--font-family-crimson_text);
+    font-size: 3.5vw;
+    color: var(--black);
+  }
 
-  <style>
-    body{
-      
-      background: url(/images/dark-turtle5.svg) left bottom no-repeat, var(--black-3);
-      background-size: 110vh;  
-      background-position: 3vh 20vh;
+  @media screen and (max-width: 600px) {
+    div.column {
+      font-size: 30px;
+      margin-left: 5vw;
+      margin-right: 5vw;
     }
-    banner a{
-  			color:#fce86a;
-		}
-    </style>
-{{ end }}
+    #splash-container {
+      margin-left: 15vw;
+      margin-right: 15vw;
+    }
+  }
 
+  @media screen and (min-width: 601px) {
+    div.column2 {
+      font-size: 80px;
+    }
+    #splash-container {
+      margin-left: 5vw;
+      margin-right: 15vw;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    div.column2 {
+      font-size: 30px;
+    }
+    #splash-container {
+      margin-left: 5vw;
+      margin-right: 15vw;
+    }
+  }
+</style>
+{{ end }}

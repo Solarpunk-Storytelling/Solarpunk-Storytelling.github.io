@@ -1,9 +1,10 @@
 ---
-layout: "front"
+layout: "home"
 menu: main
 title: Home
-image: img/rectangle-43-19@1x.png
+image: /images/front.png
 background-color: jordy-blue
+background: /images/dark-turtle5.svg
 ellipse-color: "--hopbush"
 title-color: mandy
 
