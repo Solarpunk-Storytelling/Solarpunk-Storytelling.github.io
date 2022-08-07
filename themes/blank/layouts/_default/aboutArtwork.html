@@ -46,11 +46,11 @@
       <div class="moriBio">
         <h5>Mori</h5>
         <p>
-          <a href="https://www.instagram.com/dream.mori/">Mori</a> is a
-          digital artist from a small city in Chile. After studying Illustration
-          and Graphic Design in DuocUC, she’s worked on several freelance
-          projects: drawing characters for TV animations, illustrations for
-          books and websites, t-shirt designs, prints, and posters. She’s also
+          <a href="https://www.instagram.com/dream.mori/">Mori</a> is a digital
+          artist from a small city in Chile. After studying Illustration and
+          Graphic Design in DuocUC, she’s worked on several freelance projects:
+          drawing characters for TV animations, illustrations for books and
+          websites, t-shirt designs, prints, and posters. She’s also
           collaborated with several artists and participated in local
           Illustration fairs. Nowadays she is focused on creating new merch with
           the Dream.Mori signature. Mori is inspired by dreams, the unconscious
@@ -175,9 +175,9 @@
       <img src="/images/jacobus-tides-labeled.jpg" />
       <div class="floatingVillageKey">
         <p>
-          1 Modular approach: The entire floating village consists out of multiple
-          smaller floating units. They are connected to each other. Each unit can
-          be constructed separately and adapted depending on the needs. Each
+          1 Modular approach: The entire floating village consists of multiple
+          smaller floating units. They are connected to each other. Each unit
+          can be constructed separately and adapted depending on the needs. Each
           platform can count several levels. The modular approach makes it
           possible for the village to expand incrementally.
         </p>
@@ -188,8 +188,8 @@
         </p>
         <p>3 PSP platform: Pneumatically Stabilized Platforms</p>
         <p>
-          4 Monorail for maritime robots: the robot can click onto the rail and it
-          can transport its load (mostly sea food) to the higher decks.
+          4 Monorail for maritime robots: the robot can clip onto the rail and
+          it can transport its load (mostly sea food) to the higher decks.
         </p>
 
         <p>5 Seaweed, Kelp mariculture</p>
@@ -208,14 +208,15 @@
           9 Lower deck: This deck is not used for residential purposes. The deck
           can be overflown by (higher) incoming waves. Some equipment and
           technical rooms can be found here. Everything here can be anchored to
-          the deck and can be protected against sea water. The deck can be used to
-          deliver and ship goods.
+          the deck and can be protected against sea water. The deck can be used
+          to deliver and ship goods.
         </p>
 
         <p>
-          10 Heavy equipment can be attached to the deck plate and protected with
-          seawater proof materials. (repair parts, machines, jet skis, lifeboats,
-          speedboats, catamarans, marine construction cranes, gantry cranes…)
+          10 Heavy equipment can be attached to the deck plate and protected
+          with seawater proof materials. (repair parts, machines, jet skis,
+          lifeboats, speedboats, catamarans, marine construction cranes, gantry
+          cranes…)
         </p>
         <p>11 Technical rooms, workshops, storage</p>
         <p>
@@ -252,14 +253,14 @@
         <p>30 Electricity generators</p>
         <p>31 Drone station</p>
         <p>
-          32 Technical rooms for all the roof installations, made with repurposed
-          cargo shipping containers
+          32 Technical rooms for all the roof installations, made with
+          repurposed cargo shipping containers
         </p>
         <p>33 Telecom tower, radar scanners, radio mast</p>
         <p>34 Airship & airship landing area</p>
         <p>
-          35 Foldable “sunflower” solar-panel field, attached on an open roof (so
-          the rain can come through)
+          35 Foldable “sunflower” solar-panel field, attached on an open roof
+          (so the rain can come through)
         </p>
         <p>36 Community kitchen</p>
         <p>37 Uma Lengge A-frame houses</p>
@@ -324,27 +325,35 @@
     </div>
   </article>
 </main>
-	<style>
-		body {
-			background-color: var(--{{ .Params.backgroundColor }});
-			background-image: url({{ .Params.ellipse }});
-			background-repeat: no-repeat;
-			background-position: {{ .Params.ellipsexpos }} {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
-		}
-		a {
-			color: var(--{{ .Params.titleColor }});
-		}
-		
-		h1 {
-			color: var(--{{ .Params.titleColor }});
-		}
+<style>
+  body {
+    background-color: var(--{{.Params.backgroundColor}});
+    background-image: url({{ .Params.ellipse }});
+    background-repeat: no-repeat;
+    background-position: {
+       {
+        .Params.ellipsexpos;
+      }
+    }
+     {
+       {
+        .Params.ellipseypos;
+      }
+    } /* CHANGES POSITION OF SHAPE */
+  }
+  a {
+    color: var(--{{.Params.titleColor}});
+  }
 
-		.dropdown-content {
-  			background-color: var(--jagged-ice);
-			
-		}
-		.abouth {
-			color:var(--{{ .Params.titleColor}});
-		}
-	</style>
+  h1 {
+    color: var(--{{.Params.titleColor}});
+  }
+
+  .dropdown-content {
+    background-color: var(--jagged-ice);
+  }
+  .abouth {
+    color: var(--{{.Params.titleColor}});
+  }
+</style>
 {{ end }}
