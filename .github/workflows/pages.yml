@@ -26,6 +26,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Regenerate custom domain name file
+        run: echo www.solarpunkstorytelling.com > public/CNAME
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
