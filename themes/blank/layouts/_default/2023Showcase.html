@@ -1,0 +1,46 @@
+{{ define "main" }}
+<main>
+  <article>
+
+
+    <div class="floatingVillageContainer">
+
+      <img src="/images/2023-showcase-poster.jpeg" />
+      
+    </div>
+    <!-- end of floating villiage -->
+    
+  </article>
+</main>
+<style>
+  body {
+    background-color: var(--{{.Params.backgroundColor}});
+    background-image: url({{ .Params.ellipse }});
+    background-repeat: no-repeat;
+    background-position: {
+       {
+        .Params.ellipsexpos;
+      }
+    }
+     {
+       {
+        .Params.ellipseypos;
+      }
+    } /* CHANGES POSITION OF SHAPE */
+  }
+  a {
+    color: var(--{{.Params.titleColor}});
+  }
+
+  h1 {
+    color: var(--{{.Params.titleColor}});
+  }
+
+  .dropdown-content {
+    background-color: var(--jagged-ice);
+  }
+  .abouth {
+    color: var(--{{.Params.titleColor}});
+  }
+</style>
+{{ end }}
