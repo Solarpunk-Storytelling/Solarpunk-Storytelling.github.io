@@ -363,7 +363,7 @@ h11 {
   color: var(--white);
 }
 
-p {
+p, li {
   font-size: var(--font-size-xxs);
 }
 
