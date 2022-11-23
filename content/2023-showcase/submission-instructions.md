@@ -44,7 +44,9 @@ To help your imagination take off, we've given you a few ideas to start with:
 2. The Baron of Greed has taken over your town but help is on the way! How does Captain Solarpunk unite people, plants, and creatures to save the day?
 3. You're a grandparent now. Tell your grandchildren the story of how people made the world a better place.
 
-And here’s a word bank that might be helpful. These are words and ideas that will help make your story more Solarpunk so think about how you can use them in your story! fairness, hydropower, solar, kindness, equality, windpower, recycling, harmony
+And here’s a word bank that might be helpful. These are words and ideas that will help make your story more Solarpunk so think about how you can use them in your story! 
+
+**fairness, hydropower, solar, kindness, equality, windpower, recycling, harmony**
 
 You do not have to use these ideas, they're there to get you started if you need help. So let your imagination fly!
  
