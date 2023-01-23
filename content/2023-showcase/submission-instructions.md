@@ -9,6 +9,8 @@ titleColor: banana-mania
 
 With your Solarpunk vision for the planetary future in mind, please write a short story of up to 2,500 words and send it as an email (or Word/ PDF/ Google Doc email attachment) to XR Wordsmiths (xr-writers@protonmail.com) with the subject line ‘Solarpunk Showcase Submission 2023’.
 
+Writers under the age of 18, please have your parents fill out a consent form for your entry. You can [click on it here](/downloads/Solarpunk%20Showcase%20Submission%202023%20Parental%20Consent%20Form.docx) and please attach it with your submission.
+
 There will be three age bands, (11 and under, 12-18, and 19+), so please include your age on the submission, but do not include your name on the actual story submission (just in the email, please!).
 
 Submissions should be in English. Unfortunately, our translation capacities are not strong enough right now to be able to field submissions in other languages. We apologize for any exclusion, and encourage the replication of this writing exercise in all languages! NB: if you are interested in hosting this competition in a non-English language and would like some help getting started, please contact us, we are eager to help!
