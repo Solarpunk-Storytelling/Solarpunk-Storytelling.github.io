@@ -30,7 +30,7 @@ For writers 12 and up:
 
 1. It's election day in 2025, and you have just been elected to a political office. What is the vision that drove your successful campaign?
 1. You are representing humanity in peace negotiations with the 4 elements (Earth, Wind, Fire, Water). How do you propose to restore the balance that humanity has destroyed?
-1. How might Solarpunk nomadic lifestyles help create a more sustainable future, where we live in greater harmony with all other life on our planet? (pssst, you can read more about Solarpunk nomadic lifestyles [here](https://www.shorelineofinfinity.com/)!)
+1. How might Solarpunk nomadic lifestyles help create a more sustainable future, where we live in greater harmony with all other life on our planet? (pssst, you can read more about Solarpunk nomadic lifestyles <a href="https://gitcoin.co/grants/6042/solarpunk-nomads" target="_blank">Solarpunk nomadic lifestyles here</a>!)
  
 ### Submission Instructions for our Younger Solarpunk Storytellers
 We want your help imagining a healthy planet and world! As you know, the climate is in trouble and we are all working hard to make the earth healthier for ourselves, for animals, and for plants. If you had a crystal ball and could look into the future to see that healthier planet and world, what would it look like? We want to hear your visions of the future. “Solarpunk” is a kind of story that imagines a positive, happy future, with a healthy planet, kindness and equality, and cool climate technology. Can you write us a story about this healthy, happy world? For your story, think about: 
