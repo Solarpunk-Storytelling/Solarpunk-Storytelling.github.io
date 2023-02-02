@@ -20,7 +20,7 @@ Submissions should be in English. Unfortunately, our translation capacities are 
 There is NO minimum word count (and no minimum age limit!)
 - Handwritten entries will also be accepted as a JPEG or PDF attachment.
 - Entries must be prose fiction (no poems or non-fiction, please).
-- Submission deadline: 29th January 2023
+- Submission deadline: 5th March 2023
 
 ### Stuck for ideas?
 
