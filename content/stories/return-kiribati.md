@@ -22,10 +22,10 @@ disintegrating plastic that had been whipped into a seething broth by the Pacifi
 My eyes combed the ebony veils for signs of pursuit, but the outcasts’ ramshackle vessel couldn’t have made it through. We sailed alone once more.
 
 
-“Argo, thanks for keeping us safe”, I finally breathed with relief.
+“Argo, thanks for keeping us safe,” I finally breathed with relief.
 
 
-“That is my primary function, and what the storm-runner models were designed for, Captain.”, the ship’s computer replied in calculated soothing tones.
+“That is my primary function, and what the storm-runner models were designed for, Captain,” the ship’s computer replied in calculated soothing tones.
 
 
 “Did you notify the GOPs yet?”
