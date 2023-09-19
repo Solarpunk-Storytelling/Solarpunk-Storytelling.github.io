@@ -1,0 +1,61 @@
+{{ define "main" }}
+<main>
+  <article>
+    <div class="storycategories-container">
+      <h1 class="storycategories__title">{{ .Title }}</h1>
+
+      <div class="storycategories__content">{{ index .Content }}</div>
+
+      <div class="storycategories__left">
+        <div>
+          <img src="{{ .Params.image }}" class="title-page-img" />
+        </div>
+      </div>
+
+      {{ range .Params.Categories }} 
+        {{ $title := .title }}
+        <section class="storycategories__section">
+          <h2 class="storycategories__section-title">{{ $title }}</h2>
+          <ul class="storycategories__list">
+            {{ range .stories }}
+              <li>
+                <a class="storycategories__link" href="{{ .link }}">
+                  <span class="storycategories__story-title">{{ .title }}</span>
+                  <span>by {{ .author }}</span>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </section>
+      {{ end }}
+    </div>
+  </article>
+</main>
+<style>
+  body {
+    background-color: var(--{{.Params.backgroundColor}});
+    background-image: url({{ .Params.ellipse }});
+    background-position: 50% 50vh;
+    background-repeat: no-repeat;
+    background-size: 175vh 175vh;
+  }
+
+  #titles-container h1 {
+    color: var(--{{.Params.titleColor}});
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: var(--{{.Params.backgroundColor}});
+  }
+
+  .storycategories-container h1 {
+    color: var(--{{ .Params.titleColor }});
+  }
+
+  banner a {
+    color: var(--{{ .Params.titleColor }});
+  }
+</style>
+{{ end }}
