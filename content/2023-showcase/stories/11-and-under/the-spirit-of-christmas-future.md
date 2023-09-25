@@ -1,8 +1,8 @@
 ---
 layout: "story"
 menu: story
-title: Balloon Riding Boy
-author: Alia Malouf
+title: The Spirit of Christmas Future
+author: Annabelle Chiu, Age 11
 image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture

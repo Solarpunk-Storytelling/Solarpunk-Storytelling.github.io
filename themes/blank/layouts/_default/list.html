@@ -18,32 +18,13 @@
             <a class="storycategories__link" href="{{ .Permalink }}">
               <span class="storycategories__story-title">{{ .Title }}</span>
             </a>
+            {{ with .Params.author }}
+              <p class="storycategories__author">by {{ . }}</p>
+            {{ end }}
           </li>
         {{ end }}
         </ul>
       </section>
-
-      <!-- {{ range .Params.Categories }} 
-        {{ $title := .title }}
-        <section class="storycategories__section">
-          <div class="storycategories__img">
-            <img src="{{ $img }}" class="storycategories__section-img" />
-          </div>
-          <div class="storycategories__section-content">
-            <h2 class="storycategories__section-title">{{ $title }}</h2>
-            <ul class="storycategories__list">
-              {{ range .stories }}
-                <li>
-                  <a class="storycategories__link" href="{{ .link }}">
-                    <span class="storycategories__story-title">{{ .title }}</span>
-                    <span>by {{ .author }}</span>
-                  </a>
-                </li>
-              {{ end }}
-            </ul>
-          </div>
-        </section>
-      {{ end }} -->
     </div>
   </article>
 </main>

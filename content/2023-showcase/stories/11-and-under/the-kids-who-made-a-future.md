@@ -1,8 +1,8 @@
 ---
 layout: "story"
 menu: story
-title: The Animal that Saved the World
-author: Ethan Chiang
+title: The Kids Who Made a Future
+author: Phoebe Harris
 image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture

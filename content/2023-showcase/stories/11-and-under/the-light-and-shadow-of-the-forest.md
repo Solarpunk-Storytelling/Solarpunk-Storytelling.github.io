@@ -1,8 +1,8 @@
 ---
 layout: "story"
 menu: story
-title: The Two Planets
-author: Mikhayel Malouf
+title: The Light and Shadow of the Forest
+author: Siersha Hung, Age 11
 image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture
