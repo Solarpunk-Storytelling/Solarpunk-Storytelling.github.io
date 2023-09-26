@@ -8,5 +8,4 @@ ellipse: "/images/dark-jordy-ellipse.png"
 ellipseXPos: 22vh
 backgroundColor: glossy-grape
 titleColor: festival-2
-
 ---

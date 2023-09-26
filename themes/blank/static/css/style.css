@@ -92,6 +92,12 @@ body {
   font-size: var(--font-size-xxs);
 }
 
+body {
+  background-color: var(--bgColor, var(--hopbush));
+  background-image: var(--grad);
+  background-repeat: no-repeat;
+}
+
 
 main {
   margin-top: 1rem;
@@ -108,6 +114,17 @@ img {
   gap: 1rem;
 }
 
+@media (min-width: 900px) {
+  .site-header {
+    position: absolute;
+    width: 100%;
+  }
+
+  main {
+    padding-top: 200px;
+  }
+}
+
 #page-container {
   width: 90%;
   margin-left: auto;
@@ -119,6 +136,13 @@ img {
   margin-left: auto;
   margin-right: auto;
   max-width: 900px;
+}
+
+.container {
+  width: 100%;
+  max-width: 70rem;
+  margin-inline: auto;
+  padding-inline: clamp(1rem, 2vw, 4rem);
 }
 
 /* DROP DOWN */
@@ -174,10 +198,10 @@ img {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: var(--picton-blue);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  background-color: var(--bgColor, var(--hopbush));
 }
 
 .dropdown-content a {
@@ -404,7 +428,9 @@ p2 {
   #front-container .row {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    align-items: center;
     gap: 1rem;
+    min-height: 100vh;
   }
 }
 
@@ -442,20 +468,22 @@ p2 {
 .storycategories-container {
   display: grid;
   gap: 1rem;
-  width: 1200px;
-  max-width: 100%;
+  width: 100%;
+  max-width: 70rem;
   margin-inline: auto;
-  padding-inline: 1rem;
+  padding-inline: clamp(1rem, 2vw, 4rem);
 }
 
 .storycategories__title {
   padding: 0;
+  color: var(--titleColor);
 }
 
 .storycategories__section {
   display: grid;
   gap: 1rem;
   margin-top: 1rem;
+  align-items: start;
 }
 
 @media (min-width: 900px) {
@@ -495,18 +523,6 @@ p2 {
   .storycategories__section-content {
     grid-row: 1;
   }
-
-  .storycategories__section:nth-of-type(odd) .storycategories__img {
-    grid-column: 1;
-  }
-
-  .storycategories__section:nth-of-type(even) .storycategories__img {
-    grid-column: 2;
-  }
-
-  .storycategories__section:nth-of-type(even) .storycategories__section-content {
-    text-align: left;
-  }
 }
 
 .storycategories__content:empty {
@@ -528,7 +544,7 @@ p2 {
 .storycategories-container h1,
 .storylinks-container h1 {
   font-size: var(--font-size-xxl);
-  color: var(--perano);
+  color: var(--titleColor, var(--perano));
   margin-top: 3rem;
   margin-bottom: 2rem;
 }
@@ -958,4 +974,123 @@ banner a {
     font-size: 40px;
     margin-top: 0px;
   }
+}
+
+/* Judges (new) */
+.judges__col {
+  text-align: left;
+}
+
+.judges__col h2 {
+  padding: 0;
+}
+
+.judges__section {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1rem;
+  align-items: start;
+}
+
+.judges__img {
+  width: 100%;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
+@media (min-width: 900px) {
+  .judges__section {
+    grid-column: 1 / -1;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .judges__section > * {
+    grid-row: 1;
+  }
+
+  .judges__section:nth-of-type(odd) .judges__img-col {
+    grid-column: 1;
+  }
+
+  .judges__section:nth-of-type(even) .judges__img-col {
+    grid-column: 2;
+  }
+}
+
+/* Prizes */
+
+.prizes__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+/* About */
+.about__grid {
+  display: grid;
+  gap: 1rem;
+}
+
+.about__title {
+  color: var(--titleColor, var(--perano));
+  padding: 0;
+}
+
+@media (min-width: 900px) {
+  .about__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+/* Artwork */
+.artwork__section {
+  display: grid;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+@media (min-width: 900px) {
+  .artwork__section {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 3rem;
+  }
+
+  .artwork__section > * {
+    grid-row: 1;
+  }
+
+  .artwork__section:nth-child(even) .artwork__figure {
+    grid-column: 1;
+  }
+}
+
+.artwork__title,
+.artwork__section-title {
+  font-family: var(--font-heading);
+  padding: 0;
+}
+
+.artwork__title {
+  color: var(--titleColor, var(--banana-mania));
+}
+
+.artwork__section-title {
+  font-size: var(--font-size-m);
+  margin: 0;
+}
+
+.artwork__section p:first-of-type {
+  margin-top: 0.5em;
+}
+
+.artwork__figure {
+  margin: 0;
+}
+
+.caption {
+  font-size: var(--font-size-xxxs);
+  margin-top: 0.5em;
 }

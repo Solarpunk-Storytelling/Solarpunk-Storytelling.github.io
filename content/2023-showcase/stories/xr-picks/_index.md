@@ -1,9 +1,9 @@
 ---
 title: XR Picks
-ellipse: "/images/light-green-ellipse.png"
 backgroundColor: hopbush
 titleColor: banana-mania
-image: "/images/butterfly.png"
+ellipseColor: jordy-blue
+image: "/images/bee2.png"
 ---
 
 XR picks category

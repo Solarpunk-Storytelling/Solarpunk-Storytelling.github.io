@@ -6,47 +6,29 @@
 
       <div class="storycategories__content">{{ index .Content }}</div>
 
-      {{ $img := .Params.image }}
-      
-      <div class="storycategories__section">
-        <div class="storycategories__img">
-          <img src="{{ $img }}" class="storycategories__section-img" />
-        </div>
-        {{ range .Pages }}
-            <section>
-                <h2>{{ .Title }}</h2>
-                {{ .Content }}
-            </section>
-        {{ end }}
-    </div>
+      {{ range .Pages }}
+        {{ $img := .Params.image }}
+        <section class="judges__section">
+          <div class="judges__img-col">
+            <img src="{{ $img }}" class="judges__img" alt="{{ .Title }}" />
+          </div>
+          
+          <div class="judges__col">
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+          </div>
+        </section>
+      {{ end }}
     </div>
   </article>
 </main>
 <style>
   body {
-    background-color: var(--{{.Params.backgroundColor}});
-    background-image: url({{ .Params.ellipse }});
-    background-position: 50% 50vh;
-    background-repeat: no-repeat;
-    background-size: 175vh 175vh;
-  }
-
-  #titles-container h1 {
-    color: var(--{{.Params.titleColor}});
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: var(--{{.Params.backgroundColor}});
-  }
-
-  .storycategories-container h1 {
-    color: var(--{{ .Params.titleColor }});
-  }
-
-  banner a {
-    color: var(--{{ .Params.titleColor }});
+    --bgColor: var(--{{.Params.backgroundColor}});
+    --titleColor: var(--{{ .Params.titleColor }});
+    --ellipseColor: var(--{{ .Params.ellipseColor }});
+    --bgEllipse: url({{ .Params.ellipse }});
+    --grad: radial-gradient(circle at 50% 150vh, var(--ellipseColor, var(--jordy-blue)) 70vw, transparent 0);
   }
 </style>
 {{ end }}

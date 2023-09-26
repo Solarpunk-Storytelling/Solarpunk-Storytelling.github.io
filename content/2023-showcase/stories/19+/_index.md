@@ -1,9 +1,9 @@
 ---
 title: 19+
-ellipse: "/images/light-green-ellipse.png"
-backgroundColor: hopbush
-titleColor: banana-mania
-image: "/images/butterfly.png"
+backgroundColor: glossy-grape
+titleColor: red-violet
+ellipseColor: dust-storm
+image: "/images/toadstool.png"
 ---
 
 19+ category

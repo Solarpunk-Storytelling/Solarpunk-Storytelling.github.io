@@ -1,5 +1,6 @@
 ---
 title: Aasiya Bora
+image: "/images/judges/aasiya.png"
 ---
 
 Aasiya is a teacher, book-lover, Green Party campaigner, and ‘all-round eco-nut’. She always felt passionately that looking after

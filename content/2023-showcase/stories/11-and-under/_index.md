@@ -1,9 +1,9 @@
 ---
 title: 11 and under
-ellipse: "/images/light-green-ellipse.png"
-backgroundColor: hopbush
-titleColor: banana-mania
-image: "/images/butterfly.png"
+backgroundColor: festival
+titleColor: red-violet
+ellipseColor: festival-2
+image: "/images/bee-b.png"
 ---
 
 11 and under category

@@ -30,29 +30,11 @@
 </main>
 <style>
   body {
-    background-color: var(--{{.Params.backgroundColor}});
-    background-image: url({{ .Params.ellipse }});
-    background-position: 50% 50vh;
-    background-repeat: no-repeat;
-    background-size: 175vh 175vh;
-  }
-
-  #titles-container h1 {
-    color: var(--{{.Params.titleColor}});
-  }
-
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: var(--{{.Params.backgroundColor}});
-  }
-
-  .storycategories-container h1 {
-    color: var(--{{ .Params.titleColor }});
-  }
-
-  banner a {
-    color: var(--{{ .Params.titleColor }});
+    --bgColor: var(--{{.Params.backgroundColor}});
+    --titleColor: var(--{{ .Params.titleColor }});
+    --ellipseColor: var(--{{ .Params.ellipseColor }});
+    --bgEllipse: url({{ .Params.ellipse }});
+    --grad: radial-gradient(circle at 50% 150vh, var(--ellipseColor, var(--jordy-blue)) 70vw, transparent 0);
   }
 </style>
 {{ end }}

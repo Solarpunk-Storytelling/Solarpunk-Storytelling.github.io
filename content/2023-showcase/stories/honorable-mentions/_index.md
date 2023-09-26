@@ -1,9 +1,9 @@
 ---
 title: Honorable Mentions
-ellipse: "/images/light-green-ellipse.png"
-backgroundColor: hopbush
-titleColor: banana-mania
-image: "/images/butterfly.png"
+backgroundColor: yellow-green
+titleColor: red-violet
+ellipseColor: festival-2
+image: "/images/bird3.png"
 ---
 
 XR picks category

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main>
+    <article class="container">
+        <div class="about__grid">
+            <div>
+                <h1 class="about__title">{{ .Params.title }}</h1>
+                <div class="text">	
+                    {{ .Content }}
+                </div>
+            </div>
+            <img src={{ .Params.image }} class="about__img">	
+        </div>
+
+        <ul class="prizes__list">
+            {{ range .Params.images }}
+                <li>
+                    <img src="{{ .url }}" alt="{{ .title }}" />
+                </li>
+            {{ end }}
+        </ul>
+    </article>
+</main>
+<style>
+    body {
+        --bgColor: var(--{{.Params.backgroundColor}});
+        --titleColor: var(--{{ .Params.titleColor }});
+        --ellipseColor: var(--{{ .Params.ellipseColor }});
+        --bgEllipse: url({{ .Params.ellipse }});
+        --grad: radial-gradient(circle at 50% 150vh, var(--ellipseColor, var(--jordy-blue)) 70vw, transparent 0);
+    }
+</style>
+{{ end }}

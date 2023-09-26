@@ -1,9 +1,9 @@
 ---
 title: Runners Up
-ellipse: "/images/light-green-ellipse.png"
-backgroundColor: hopbush
+backgroundColor: mandy
 titleColor: banana-mania
-image: "/images/butterfly.png"
+ellipseColor: festival-2
+image: "/images/bird2.png"
 ---
 
 Runners Up category
