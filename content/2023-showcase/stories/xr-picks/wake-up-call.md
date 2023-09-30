@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Wake Up Call
-author: Alexandria Porter
+author: Alexandra Porter
 image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture
