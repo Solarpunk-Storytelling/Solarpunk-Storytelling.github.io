@@ -45,9 +45,10 @@
 }
 
 body {
+  background-color: var(--bgColor, var(--festival-2));
   margin: 0;
   font-family: var(--font-family-crimson_text);
-  background-color: var(--festival-2);
+  /* background-color: var(--festival-2); */
   font-size: var(--font-size-body);
   line-height: 1.4;
   padding-bottom: var(--space);

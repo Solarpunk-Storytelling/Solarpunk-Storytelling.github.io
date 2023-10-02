@@ -14,15 +14,15 @@
         </div>
         <ul class="storycategories__list">
           {{ range .Pages }}
-          <li>
-            <a class="storycategories__link" href="{{ .Permalink }}">
-              <span class="storycategories__story-title">{{ .Title }}</span>
-            </a>
-            {{ with .Params.author }}
-              <p class="storycategories__author">by {{ . }}</p>
-            {{ end }}
-          </li>
-        {{ end }}
+            <li>
+              <a class="storycategories__link" href="{{ .Permalink }}">
+                <span class="storycategories__story-title">{{ .Title }}</span>
+              </a>
+              {{ with .Params.author }}
+                <p class="storycategories__author">by {{ . }}</p>
+              {{ end }}
+            </li>
+          {{ end }}
         </ul>
       </section>
     </div>

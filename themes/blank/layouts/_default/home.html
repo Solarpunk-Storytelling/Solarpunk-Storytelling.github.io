@@ -3,25 +3,23 @@
 <div id="front-container">
   <div class="row">
     <h1 class="main-title">
-      <span style="color: var(--tango)"> XR Wordsmiths</span>
-      <span style="color: var(--banana-mania)">Solarpunk Storytelling Showcase</span>
+      <span style="color: var(--tango)">{{ .Params.preTitle }}</span>
+      <span style="color: var(--banana-mania)">{{ .Title }}</span>
     </h1>
 
     <div class="column">
-      <img src="/images/front.png" class="front-page-img" />
+      <img src="{{ .Params.Image }}" class="front-page-img" alt="" />
     </div>
   </div>
 </div>
 
 <style>
   body {
+    --bgColor: var(--black-3);
     background: url(/images/dark-turtle5.svg) left bottom no-repeat,
       var(--black-3);
     background-size: 110vh;
     background-position: 3vh 20vh;
-  }
-  banner a {
-    color: #fce86a;
   }
 </style>
 {{ end }}

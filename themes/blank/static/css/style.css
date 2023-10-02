@@ -417,6 +417,7 @@ p2 {
   margin-inline: auto;
   max-width: 1400px;
   padding-inline: 1rem;
+  padding-bottom: 1rem;
   color: var(--festival);
   min-height: calc(100vh - 100px);
   display: flex;
@@ -431,6 +432,8 @@ p2 {
     align-items: center;
     gap: 1rem;
     min-height: 100vh;
+    padding-top: 13rem;
+    padding-bottom: 3rem;
   }
 }
 
