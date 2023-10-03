@@ -1,6 +1,6 @@
 "use strict";
 
-(function () {
+(function createDropdowns () {
    const nav = document.querySelector('[data-nav]')
 
    const close = (button, content) => {
@@ -30,19 +30,47 @@
         })
    }
 
-   window.addEventListener('click', (e) => {
-    closeAll(e.target)
-    const id = e.target.dataset.dropdownButton
-    if (!id) return
+   const handleClick = (e) => {
+        closeAll(e.target)
+        const id = e.target.dataset.dropdownButton
+        if (!id) return
 
-    const content = document.getElementById(id)
-    
-    if (e.target.getAttribute('aria-expanded') == 'true') {
-        close(e.target, content)
-    } else {
-        open(e.target, content)
+        const content = document.getElementById(id)
+        
+        if (e.target.getAttribute('aria-expanded') == 'true') {
+            close(e.target, content)
+        } else {
+            open(e.target, content)
+        }
     }
-   })
 
+   window.addEventListener('click', handleClick)
    closeAll()
+})();
+
+(function createMobileMenu () {
+    const menuBtn = document.querySelector('[data-menu-button]')
+
+    const open = () => {
+        document.body.classList.add('menu-open')
+        menuBtn.setAttribute('aria-expanded', true)
+        menuBtn.innerText = 'Close'
+    }
+
+    const close = () => {
+        document.body.classList.remove('menu-open')
+        menuBtn.setAttribute('aria-expanded', false)
+        menuBtn.innerText = 'Menu'
+    }
+
+    menuBtn.addEventListener('click', (e) => {
+        console.log(e)
+        if (e.target.getAttribute('aria-expanded') == 'true') {
+            close()
+        } else {
+            open()
+        }
+    })
+
+    close()
 })();
