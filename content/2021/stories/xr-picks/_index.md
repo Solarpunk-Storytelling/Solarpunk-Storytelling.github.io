@@ -1,5 +1,5 @@
 ---
-title: XR Picks
+title: XR Wordsmiths’ Top Picks
 backgroundColor: hopbush
 titleColor: banana-mania
 ellipseColor: jordy-blue
