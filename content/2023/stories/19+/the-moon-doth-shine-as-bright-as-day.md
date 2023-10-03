@@ -28,7 +28,7 @@ His son’s academic prowess was a surprise, as Joseph himself had never been mu
 
 He didn’t begrudge the kids their learning, though. And he loved to watch them in the playground, with all its shiny new equipment. 
 
-#
+* * *
 
 Now that playground was nothing more than a source of contention amongst his fellow elders.
 
@@ -56,7 +56,7 @@ Everyone looked at him in surprise.
 
 “As important as them having food to eat?” Ella demanded. 
 
-#
+* * *
 
 Of course, she got her way. Most of the play equipment was removed.
 
@@ -68,7 +68,7 @@ It took a year for the plants began to start colonizing the cracks. Only the tou
 
   The clandestine allure drew teenagers in, especially couples. Soon, larger groups were sneaking in too. One time, one of the boys managed to sneak out some of his parents’ mead. A mate of his got so drunk on the stuff, they found him passed out the next morning with a pretty serious case of hypothermia. A couple more hours there and he could have been dead. 
 
-#
+* * *
 
 At the next meeting of elders, Ella folded her hands on the table. “Look, isn’t it clear by now? We have to raze that playground. Or at least cordon it off. Otherwise we will have a maimed or dead child on our hands.”
 
@@ -80,7 +80,7 @@ Ella shrugged. “All right. But if it goes pear-shaped again, that’s it. I do
 
  
 
-#
+* * *
 
 Reynash and Joseph spent a day clearing the around the gate, so there was a clear path through to the playground. There was a little patch of ephemeral wetness that Joseph had been topping up in a little shady area, just outside the gates. He found a few hoverflies and a wasp that had fallen in. 
 
@@ -98,7 +98,7 @@ As they were milling about at the entrance, Joseph went back to check on the was
 
 Just afterwards, one of the kids stumbled through the entrance, tripping over on something. The laughter shocked Joseph and he put a hand a little too close to the wasp. With a loud buzzing, it shot right up, darting between the tree branches. 
 
-# 
+* * * 
 
 On the first few nights, the kids and teenagers mostly just milled around, lurking on the edges. Joseph and Reynash encouraged them to discuss the ideas they had for the space, but to little avail until a girl called Ebony came along with some kindling and a wheelbarrow full of old wood. 
 
@@ -128,7 +128,7 @@ Ebony brought along a star wheel next, a really big one. The kids decided they�
 
 Soon, they had created Cassiopeia, Ursa Major, and Orion, and the cat’s eyes gleamed under a huge, pink moon. 
 
-#
+* * *
 
 Ebony’s next idea was to make lanterns – great spheres for planets, and long tubes for glow worms. 
 
@@ -152,7 +152,7 @@ And truly, those animals might as well have been extraterrestrial, because most 
 
 So Ebony and about a dozen other kids and adults fashioned the planets out of bamboo and crepe in the early evenings while the light was still pretty good. The kids made some sea creatures as well, to float amongst the planets – an octopus, jellyfish and a ray. 
 
-#
+* * *
 
 Ebony lit the first lantern. 
 
@@ -198,7 +198,7 @@ They both laughed.
 
 The lantern show was over now. Kids flopped down on grass verges. Adults laid blankets over them gently, propped up their heads with pillows. On a hot night like tonight, it was best to sleep under the stars. 
 
-#
+* * *
 
 Joseph had long relished the different flavours of quiet. 
 
