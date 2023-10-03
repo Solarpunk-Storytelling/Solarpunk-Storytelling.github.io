@@ -24,7 +24,7 @@ A couple months ago, my doctor told me I should start exercising regularly. Actu
 
 “I will renew your prescription for thirty days, but I want you to schedule a follow up so we can revisit this topic soon.” 
 
-~
+#
 Halfway through my thirty days, another shipping lane disruption holds up the latest batch of medications, bicycles, ultra 4K televisions, refrigerators, ballpoint pens, etc. Self-preservation overrides my resistance to exercise, and I start looking for a gym. I have not owned any exercise equipment since my one impulsive late-night purchase of a full-body workout machine that inspired a few weeks of intensive early morning sessions before the novelty wore off and an extra hour of sleep suddenly seemed critical. 
 
 One thing I learned from that experience was that going it alone made exercise even more difficult and unpleasant. But just joining a gym wouldn’t solve that problem; lining up a bunch of treadmills doesn’t exactly create a community. Joining a class seemed the way to go if I wanted to be able to stick with it. 
@@ -35,7 +35,8 @@ So, I continued to collect my paltry payment protection checks while looking for
 
 Last week, on my afternoon trip to the mailbox, I found a flyer tucked behind the metal flag. It advertised a free community exercise class and “battery charging party” at a church less than a mile from where I live. JOIN US, SATURDAYS @ 9AM, NO EQUIPMENT REQUIRED, the flyer read. If I had any mystical or religious leanings at all, I might have seen this as a sign. 
 
-~
+#
+
 I’m here for the second week in a row, having gotten up just early enough to eat a bowl of cereal and make the thirty minute trek to the pavilion. A minute or so before the class starts, I climb onto an old exercise bike that someone has donated, gray paint flaking off the frame. Attached to the frame is a small box with a tiny wheel sticking out of one side. This wheel is pressed against the front rim of my exercise bike, and it spins as I begin pedaling. Coming out the other side of the box is a wire that runs away from my bike and connects to a large battery in the center of the pavilion. A rough rectangle of other people perched on similar but not identical bikes, all with wires connecting to the battery in the center, fills out the pavilion. 
 
 The leader of the class, a young enthusiast with too much hair and not enough makeup, pedals her own bike atop the battery, shouting encouragement and occasionally status updates about how much energy we’ve produced. After thirty minutes, the fifteen or so of us have juiced up the 1500-watt battery to nearly full capacity. 
@@ -44,7 +45,7 @@ Feet aching, I hobble to what passes for a bathroom here. The inside looks prett
 
 As I’m leaving I pass a wooden box the size of a small filing cabinet stuck on top of a post about chest-high. On the front is a small door; inside are books. A painted sign stuck in the ground nearby says, LITTLE FREE LIBRARY. I peer into the box, head tilted as I scan the titles. There are children’s books, novels, field guides, a few magazines, some religious titles. A man approaches from behind, a few books under his arm. I step back as he deposits the books in the little library and see him select one of the magazines. After he leaves, I browse again for a few more minutes, unsure whether to take a book without leaving one. I make a note of one or two interesting titles, though I haven’t read a book in years, and make a plan to bring some books next week to donate. 
 
-~
+#
 The following Saturday morning I show up a few minutes before the class starts. I’ve brought a few books in a plastic grocery bag, and I head straight to the little free library. The dewy grass wets my sore feet. I slide my books in with the others and walk over to the pavilion. 
 
 Just outside the pavilion stand three small satellite dishes. At least, that’s what they look like: concave discs tilted toward the sky. But there’s no wiring. They don’t appear to connect to anything. A small banner tied to two lengths of rebar billows in the morning breeze, but its  message is facing away from me and the class is about to start, so I don’t have time to investigate. 
@@ -65,7 +66,7 @@ Today, though, “my” bike is free. I slip my feet into the stirrups and cinch
 
 “That happens sometimes. Fortunately, the grid has not yet completely failed, so we use it when we have to. Also, there are solar panels on the pavilion roof. But they’re old and don’t produce much electricity, especially on cloudy days.” She shrugged and then added, “If all else fails, there’s always rain and hand watering.” She thumbed toward the black plastic barrels stationed beneath each corner of the pavilion’s roof, a downspout aimed into the center of the barrel’s wire mesh opening. 
 
-~
+#
 As we finish this week’s class, the same young woman, whose name is Rose, asks me if I plan to stay for brunch. We are standing just outside the pavilion. The mid-morning sun feels warm on my arms and neck. I don’t usually stay long after the class ends. I get away as quickly as I can, mainly so I can get home and put my feet up. Plus, I don’t see anything set up to prepare food. 
 
 To stall for time, I ask Rose, “What’s on the menu?”
