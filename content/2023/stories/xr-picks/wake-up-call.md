@@ -36,6 +36,7 @@ If the sleep deprived Mr Gray had any more to say, it was drowned out by the sud
 
 It was time to go to work. 
 
+&nbsp;
 
 As a tree surgeon in 22nd century Scotland, Kai was never short of work. He chose a different tree-lined street to walk to the workshop every day, greeting each leafy giant in soundless recognition as he passed, oak, ash, and pine, some of which had grown up through cracks in the road, forcing back the tarmac like ripples in deep time. Swarms of electric scooters, bikes and hoverboards weaved around him and the road-bound trees like pegs in a loom, and as the gentle Spring sun smiled down on him he wondered which of his arboreal friends he would be caring for today. 
 
@@ -62,6 +63,8 @@ Kai considered this for a moment. “White Spruce is the Grandmother tree in my 
 Charli sighed and her shoulders dropped. “If we don't take the job, the Council will give it to someone else.” 
 
 She rested her hand on Kai’s arm, her sky blue eyes searching his face for answers. “If this Grandmother tree is special to you, maybe we can give her a good send off…?” 
+
+&nbsp;
 
 “This can’t be right,” said Kai, checking the postcode and house number for the third time. “This is my street!” 
 Charlie pulled alongside with the hoverbarrow and went to ring the bell. Kai stalled her hand. 
