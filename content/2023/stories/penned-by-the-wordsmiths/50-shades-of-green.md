@@ -1,4 +1,6 @@
 ---
+layout: "story"
+menu: story
 title: 50 Shades of Green
 author: Jeremy Parker
 image: "/images/joao-blood-oil.jpg"

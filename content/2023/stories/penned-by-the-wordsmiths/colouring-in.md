@@ -1,4 +1,6 @@
 ---
+layout: "story"
+menu: story
 title: Colouring In
 author: Mick Haining
 image: "/images/joao-blood-oil.jpg"

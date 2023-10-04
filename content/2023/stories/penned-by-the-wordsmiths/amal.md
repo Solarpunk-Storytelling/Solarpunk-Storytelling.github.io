@@ -1,4 +1,6 @@
 ---
+layout: "story"
+menu: story
 title: Amal
 author: Shireen Tawil
 image: "/images/joao-blood-oil.jpg"
