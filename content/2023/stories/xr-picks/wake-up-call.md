@@ -14,4 +14,105 @@ ellipseYPos: -4%
 textBackgroundColor: jordy-blue
 ---
 
-Story text
+
+
+07:05 hours, on the 5th March, in the year 2123.
+
+Kai McIntyre woke from a dream in which he was flying over a vast and ancient jungle. A little disheartened as reality dawned on him that the being-able-to-fly bit was only a dream, he opened the curtains to gaze lovingly across the treetops of the temperate forest city that was, thankfully in reality, his home. This was his favourite dream and, as it happens, his favourite view of Edinburgh as well. However, today he was greeted not by waves of morning light spreading like joy across the face of the city, but by red rage spreading like wildfire across a human face, marked by the tides of time and worry, that loomed out of the window of number 12, like a grumpy tortoise head emerging from the dark solace of their shell. 
+
+The face was joined by a smaller red face peeping from a gap under the eaves. Eyes wide in a state of alarm, glistening like two black olives, tufted red ears pointing straight up like antennae, towards the brightening sky. 
+
+For those of you not familiar with native Scottish wildlife, the second face was that of a red squirrel. Once endangered and now a particularly prolific and tenacious, more-than-human resident of the Scottish capital. Encouraging pine marten and red squirrels to reclaim the city from their non-native, grey squirrel rivals had led to a miraculous trophic cascade. The Council had lined the streets with native trees favoured by the martens and the reds. The martens moved in, picking off the easier to catch greys within a few years, allowing the red squirrels to move back to the city after a hundred years of absence. In turn, the reds planted (ie. buried and then forgot) more trees, and then the birds moved in and planted even more, and with them came tidal waves of wild grasses, exuberant blooms of untamed flowers and, of course, the all important, hardworking pollinators. Herds of deer were kept on the move simply by the presence of dogs and humans, so the saplings flourished. Edinburgh city became one of the first designated ‘urban jungles’, with cleaner air, shielded from heatwaves, and all the natural antibiotics emitted by the trees made it one of the healthiest cities on the planet, if you didn’t take into account the time honoured tradition of deep-frying chocolate bars. 
+
+It wasn’t without its downsides, however, as Mr Gray at number 12 will tell you. Marten-proof squirrel homes were installed in the eaves of all new buildings and re-roofing projects, and may be inhabited by a number of ecologically beneficial species, including bats and owls. Unfortunately, the squirrel house ‘mark 1’ did not include any sound-proofing, which led to another fascinating discovery for naturalists, that squirrels are very active at night in their dreys. 
+
+Mr Gray was, apparently, not a naturalist. 
+
+He looked up, locking eyes with his red haired opponent, and unleashed a verbal assault of a somewhat antiquated yet ferocious nature. I’m still unsure why being born out of wedlock was ever cause for insult, let alone how that could be relevant to a squirrel, yet I must admit that the phonics in that one particular word lend themselves well to conveying discontent. 
+
+In response, the squirrel lept to the nearest branch, pausing only briefly to look back, before heading off through the treetops with the casual swagger of a champion who remains unbeaten at his game. 
+
+If the sleep deprived Mr Gray had any more to say, it was drowned out by the sudden eruption of birdsong that went ricocheting through the streets announcing dawn, as amber light began to pour surreptitiously across the solar rooftops and into even the sleepiest of corners, like a thief stealing the darkness. 
+
+It was time to go to work. 
+
+
+As a tree surgeon in 22nd century Scotland, Kai was never short of work. He chose a different tree-lined street to walk to the workshop every day, greeting each leafy giant in soundless recognition as he passed, oak, ash, and pine, some of which had grown up through cracks in the road, forcing back the tarmac like ripples in deep time. Swarms of electric scooters, bikes and hoverboards weaved around him and the road-bound trees like pegs in a loom, and as the gentle Spring sun smiled down on him he wondered which of his arboreal friends he would be caring for today. 
+
+Constructed from storm blown trees, the log cabin workshop lay at the feet of a large woodland park area, like a pile of neatly stacked firewood. On dark Winter mornings if Kai stepped quietly, a deer or even a fox would saunter by, clinging to the safety of the lingering seasonal shadows. This morning the sun had already begun its slow climb into a luminous sky, and the cabin was far from peaceful. A loud conversation carried far out through the open door. 
+
+“So, despite the Bill of Ecological Rights, you want us to cut down a perfectly healthy tree, am I hearing this correctly?” It was Charli, Kai’s partner, though he’d never heard her so riled before. 
+
+“The Council have thought long and hard over this decision. It’s a matter of mental health. This citizen has phoned the office every day for the past year saying the tree is ruining his life.” The second voice had the steely softness of calm waters that bely riptide currents. 
+
+“So that’s it, just kill an innocent being? Can’t the guy just move house?” “I can assure you, it is a far more complicated issue than that. The Council does not make this kind of decision lightly. I trust you will conduct the procedure in a sensitive and professional manner. The felled wood will be yours to do with as you wish. I understand it has some value.” 
+
+A man in a patched tweed suit walked stiffly out of the cabin, placing his cap on his bare head and nodding towards Kai “Good morning,” before disappearing into the tangle of branches and brickwork of the city. 
+
+Charli came to the door, hands on hips, a torrent of auburn hair flowing down over one shoulder. 
+
+“I suppose you heard that?” She said. 
+
+“Well, most of it. Which tree do they want to cut down, anyway?” 
+
+“It’s a White Spruce, a non-native, but she’ll be full of birds’ nests this time of year. I just don’t understand why anyone would want to take the life of a healthy tree?”
+
+Kai considered this for a moment. “White Spruce is the Grandmother tree in my mother’s culture. I’m not sure I can do it.” 
+
+Charli sighed and her shoulders dropped. “If we don't take the job, the Council will give it to someone else.” 
+
+She rested her hand on Kai’s arm, her sky blue eyes searching his face for answers. “If this Grandmother tree is special to you, maybe we can give her a good send off…?” 
+
+“This can’t be right,” said Kai, checking the postcode and house number for the third time. “This is my street!” 
+Charlie pulled alongside with the hoverbarrow and went to ring the bell. Kai stalled her hand. 
+
+“Did you know about this?” 
+
+“I swear it’s nothing to do with me, and you know I don’t agree with it. But as it happens, I figured you’d want to be responsible for the trees in your neighbourhood, they’re your dependents, if you like. Your family”. Charli waited for Kai to let her ring the bell. Kai didn’t move. 
+
+“Look, let’s just get in there and see what this is all about. Maybe the tree really does need to come down. Maybe it’s overshadowing an oak?! But if I find even so much as a twig of a bird's nest in it, I’m calling it off. Deal?” Charli put out her bell ringing hand to shake on it. 
+
+Kai nodded and, avoiding her hand, he stepped forward and rang the bell. The sound of the buzzer echoed up to the very top of the ancient stairwell, where someone pressed a button to release the door, and Kai and Charli walked in and through to the garden at the back. 
+
+Number 12 stood on the corner of a line of old tenement buildings and, enclosed within them, hidden away inside the four walls were a patchwork of communal gardens. Originally only designated as drying greens for hanging laundry, over the years vegetable patches, fire pits and decking had popped up like mushrooms and then been left to decompose again with the changing of tenants and legislation. The only things that had been allowed to grow and keep on growing were, of course, the trees, and only the native trees at that.
+Yet there, by the back door of number 12, was a tall, slender Spruce tree, its growing tip, or apical meristem in technical terms, reaching up higher even than the roof of the four storey blocks of flats. A chorus of birds danced and sang, safe inside the dense, dark green needles, and a guilty looking red squirrel stopped to hide a large nut in her cheek pouch, and cocked her head on one side in curiosity. 
+
+“Oh, she’s a beauty, ain’t she?” Charli said, craning her neck to see the top. Kai said nothing and went and knelt at the base of the tree and placed a hand either side of the trunk. Charli kept her distance, taking the thermal imaging device from the hoverbarrow to scan for active nests. She paced slowly around the tree, scanning from every angle, going around for a second time just to be certain, and then quietly sat down to watch Kai work his magic. 
+
+You see, unlike humans, most trees appreciate the bigger ecological picture and will override their natural sense of self preservation if their presence is detrimental to the wellbeing of the majority of living beings around them. Most trees, except perhaps Beech trees who believe they are the most beautiful and important being in the forest and will drop their branches on anyone who dares to suggest otherwise. Nevertheless, occasional inter-arboreal speciesism aside, in general the majority of trees just want to do their bit for their environment, and their neighbours. Many species have evolved over thousands of years to coexist with humans, thriving in areas where we cared for the woodland in exchange for the use of any windblown, diseased or stunted trees. Kai reached into the tree with his mind. He asked the question and he waited for the reply. After five slow minutes had passed, he took his hands away. 
+
+Charli broke the silence. “What did she say?” 
+
+“She says she knows she’s not meant to be here. The soil doesn’t feel right, and she’s lonely. Her mushroom, plant and insect friends don’t live here. She can grow tall and strong, whilst her roots may never grow deep. A storm could bring her down any time, though she’s quite sheltered by the tenement walls…” Kai replied. 
+
+“So will she come down easily, or will she put up a fight?” Charli asked. “That I don't know. I’m still waiting for a sign. Sometimes I don’t get that sign til the chainsaw starts up and the tree finally realises what’s going to happen. They sense the vibration. Did you find any nests?”
+
+“Not a single one, oddly enough.” Said Charli. “Maybe that’s our sign?” She went to the barrow and began unpacking their tools and Kai assessed the site for the safest angle for felling. 
+
+Charli took the chainsaw out and checking it was fully charged, she gave it a quick burst. 
+
+The mechanical buzzing sound jolted around the quadrangle. The birds from the Spruce tree flew out in alarm and the squirrel’s mouth fell open, dropping the nut, before leaping away to the safety of the brittle topmost branches of an adjacent silver birch, hopping about there agitatedly as if the branches were too hot to touch. 
+
+Faces began to appear at windows all around. Human faces, as well as a few more-than-human friends, and then the watching faces began to speak all at once; cats yowled, dogs howled, there was a general adult human murmur of “what are they doing?”, and one young human voice screamed “don’t hurt our tree!” Then a familiar age-worn face loomed out of the darkness of the stairwell doorway, like a tortoise waking up from a long sleep. 
+
+“I’m sorry!” cried Mr Gray as he came stumbling out into the light on wobbling legs, and knelt at the foot of the tree. “It’s my fault you see, I asked them to cut it down...” Charli put the chainsaw down and went to sit next to him on the damp grass. “What happened? Why don’t you like that tree?” 
+
+Mr Gray tugged at his thin white hair and rocked gently as he spoke. “There’s this squirrel that climbs the tree!” he wailed. “But it’s my wife really”. He paused to gather his thoughts together. 
+
+“I don’t understand,” said Charli. “Are you married to a squirrel?” 
+
+“No!” wailed Mr Gray. “And yes, I suppose in a way. My wife loved that squirrel, AND that tree. We planted it 30 years ago, when we got married. She said as long as we’re together the tree will grow strong, and it did. Look at it. Just look at it!” he demanded. “It’s so strong and healthy, so… alive.” 
+
+He paused to rock some more. “And my wife, well… she isn’t anymore. Alive, I mean. She died a year ago today… All I’ve got left is that bloody tree!” He looked at the Spruce, imploringly, as if waiting for the tree to answer. 
+
+All the faces around the gardens watched and waited too. Even the wind held its breath. Kai came to sit next to Mr Gray and spoke softly. 
+
+“In some cultures they believe that when we die our spirits live on in the trees.” Mr Gray stopped rocking and turned to look at Kai.
+
+They heard the faint wiffle of the squirrel's nose twitch.
+
+Just then a brave little robin flew down and picked up a twig from the grass by Charli’s feet, and flew up into the Spruce tree to start building his nest. Slowly, one by one, out of the watchful stillness, the birds began to sing again. 
+
+For most it was simply the welcome, joyful sound of Spring. A wake up call full of the magical potential of a new season, a new life, a new day. And for some people in that garden that day, it was the sound of Mr and Mrs Gray planting a tree, watching it grow as their lives grew around each other, and they are still watching it grow now, together.
+
+
