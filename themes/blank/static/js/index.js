@@ -32,7 +32,9 @@
 
    const handleClick = (e) => {
         closeAll(e.target)
+
         const id = e.target.dataset.dropdownButton
+        
         if (!id) return
 
         const content = document.getElementById(id)
@@ -64,12 +66,8 @@
     }
 
     menuBtn.addEventListener('click', (e) => {
-        console.log(e)
-        if (e.target.getAttribute('aria-expanded') == 'true') {
-            close()
-        } else {
-            open()
-        }
+        const isOpen = e.target.getAttribute('aria-expanded') == 'true'
+        isOpen ? close() : open()
     })
 
     close()

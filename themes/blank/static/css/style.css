@@ -118,6 +118,9 @@ img {
 @media (min-width: 900px) {
   .site-header {
     position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
     flex-direction: row;
     width: 100%;
   }
