@@ -116,6 +116,6 @@ They heard the faint wiffle of the squirrel's nose twitch.
 
 Just then a brave little robin flew down and picked up a twig from the grass by Charli’s feet, and flew up into the Spruce tree to start building his nest. Slowly, one by one, out of the watchful stillness, the birds began to sing again. 
 
-For most it was simply the welcome, joyful sound of Spring. A wake up call full of the magical potential of a new season, a new life, a new day. And for some people in that garden that day, it was the sound of Mr and Mrs Gray planting a tree, watching it grow as their lives grew around each other, and they are still watching it grow now, together.
+For most it was simply the welcome, joyful sound of Spring. A wake up call full of the magical potential of a new season, a new life, a new day. And for some people in the garden that day, it was the sound of Mr and Mrs Gray planting a tree, watching it grow as their lives grew around each other, and they are still watching it grow now, together.
 
 
