@@ -3,10 +3,9 @@ layout: "story"
 menu: story
 title: The Wompom Forest
 author: Luke Lanyon-Hogg
-image: "/images/joao-blood-oil.jpg"
-imageType: pencil
-altimage: lovely picture
-imageCredit: Illustration by João Queiroz.
+image: "/images/stories/WompomForestEdited.jpg"
+altimage: The Wompom Forest
+imageCredit: Illustration by ???
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"

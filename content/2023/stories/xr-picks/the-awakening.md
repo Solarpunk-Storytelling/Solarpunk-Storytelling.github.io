@@ -3,10 +3,9 @@ layout: "story"
 menu: story
 title: The Awakening
 author: Lesley Goldie
-image: "/images/joao-blood-oil.jpg"
-imageType: pencil
-altimage: lovely picture
-imageCredit: Illustration by João Queiroz.
+image: "/images/stories/awakening tree 2.png"
+altimage: The Awakening
+imageCredit: Illustration by ???
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"

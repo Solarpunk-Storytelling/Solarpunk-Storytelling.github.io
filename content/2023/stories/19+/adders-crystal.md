@@ -3,10 +3,9 @@ layout: "story"
 menu: story
 title: Adder’s Crystal
 author: Campbell Waldron
-image: "/images/joao-blood-oil.jpg"
-imageType: pencil
-altimage: lovely picture
-imageCredit: Illustration by João Queiroz.
+image: "/images/stories/AddersCrystal.jpg"
+altimage: Adder's Crystal
+imageCredit: Illustration by ???.
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"

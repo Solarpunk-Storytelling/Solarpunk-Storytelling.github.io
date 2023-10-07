@@ -3,10 +3,9 @@ layout: "story"
 menu: story
 title: The Librarian
 author: Jo Syz
-image: "/images/joao-blood-oil.jpg"
-imageType: pencil
-altimage: lovely picture
-imageCredit: Illustration by João Queiroz.
+image: "/images/stories/the librarian.jpg"
+altimage: The Librarian
+imageCredit: Illustration by ???
 backgroundColor: azure
 titleColor: banana-mania
 ellipse: "/images/jordy-blue-ellipse-1.svg"
