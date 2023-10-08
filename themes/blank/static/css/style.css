@@ -104,6 +104,10 @@ main {
   margin-bottom: 3rem;
 }
 
+.main--story {
+  margin-bottom: 0;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -324,9 +328,6 @@ img {
 }
 
 .title-page-img {
-  /* position:relative; 
-  left:5vw;
-  width: 40vw !important; */
   width: 100%;
 }
 /* ABOUT PAGE */
@@ -1163,4 +1164,39 @@ banner a {
 .caption {
   font-size: var(--font-size-xxxs);
   margin-top: 0.5em;
+}
+
+/* Story */
+.story__title {
+  color: var(--titleColor, var(--banana-mania));
+}
+
+.story__author {
+  text-align: center;
+}
+
+.story__figure {
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+.story__image {
+  width: 100%;
+  display: block;
+}
+
+.story-text {
+  padding-top: 0;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.story__pencil {
+  max-width: 30rem;
+  margin: 5rem auto 0 auto;
+}
+
+.story__text-wrapper {
+  background-color: var(--storyBgColor);
+  padding-bottom: 5rem;
 }
