@@ -7,14 +7,7 @@ image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture
 imageCredit: Illustration by João Queiroz.
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
-
-
 
 A blonde girl with a white dress walked through the forest, calling out to her parents, wishing they could hear her cries. Her name was Lily. She walked deeper and deeper into the dark forest. The trees all looked the same, with the same haunting era. She scrunched up her nose in disgust as she saw a fox, killed by a misplaced trap. She left it and kept walking. Tiny squeals sounded from a nearby withered bramble bush, she peeked in and saw a family of rabbits curling up around one another, the sight warmed her heart. As she went deeper, the more traces of life she saw, even more traces of death were uncovered. A bush rustled, Lily backed away, shaking with fear. A tiny speckle of light floated towards her, glowing fiercely. It flew around her and she was blinded temporarily. 
 

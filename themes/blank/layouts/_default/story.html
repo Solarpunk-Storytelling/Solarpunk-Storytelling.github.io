@@ -22,42 +22,17 @@
 
 	<style>
 		body {
-			background-color: var(--{{ .Params.backgroundColor }});
-			background-image: url({{ .Params.ellipse }});
-			background-repeat: no-repeat;
-			background-position: 50% {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
-			background-size: 200% auto;
-		}
+			--paramsBGColor: var(--{{.Params.backgroundColor}});
+			--paramsTitleColor: var(--{{.Params.titleColor}}, var(--banana-mania));
+			--paramsEllipseColor: var(--{{.Params.ellipseColor}});
+			--paramsTextBackgroundColor: var(--{{.Params.textBackgroundColor}});
 
-		.ellipse-content {
-    		background-color: var(--{{ .Params.ellipseColor }});
-		}
-		.story-text {
-			background-color: var(--{{ .Params.textBackgroundColor }});
-		}
-		h1{
-			color: var(--{{ .Params.titleColor }});
-		}
-		.dropdown-content {
-  			background-color: var(--{{ .Params.backgroundColor }});
-		}
-
-		.ellipse-content {
-
-    		top: {{ .Params.ellipseYPos}} !important;
-
-  		}
-
-		a{
-  			color: var(--{{ .Params.titleColor }});
-
-		}
-
-		@media (max-width: 800px) {
-			body {
-    		background-position: -9999px -9999px;
- 		 }
-		
+			--bgColor: var(--paramsBGColor, var(--hopbush-3));
+			--titleColor: var(--paramsTitleColor, var(--banana-mania));
+			--ellipseColor: var(--paramsEllipseColor, var(--jordy-blue));
+			--bgEllipse: url({{ .Params.ellipse }});
+			--grad: radial-gradient(circle at 50% 150vh, var(--ellipseColor, var(--jordy-blue)) 70vw, transparent 0);
+			--storyBgColor: var(--paramsTextBackgroundColor, var(--jordy-blue));
 		}
 	</style>
 {{ end }}

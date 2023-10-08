@@ -6,11 +6,6 @@ author: Campbell Waldron
 image: "/images/stories/AddersCrystal.jpg"
 altimage: Adder's Crystal
 imageCredit: Illustration by ???.
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
 
 Adder stared quizzically at the dried and brittle thing in her line of vision, which had been a flower only three months before. A cold northern wind blew the delicate husk of its stem from side to side like an old disjointed fence post caught in a tornado.

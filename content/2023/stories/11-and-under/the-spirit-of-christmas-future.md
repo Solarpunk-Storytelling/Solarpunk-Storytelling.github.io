@@ -7,13 +7,7 @@ image: "/images/joao-blood-oil.jpg"
 imageType: pencil
 altimage: lovely picture
 imageCredit: Illustration by João Queiroz.
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
-
 
 Have you ever had spooky spirits haunting your dreams at night? Well you’re in for a rough ride if you haven’t. Fasten your seatbelt and hold on tight because your nightmares are about to come to life!
 
