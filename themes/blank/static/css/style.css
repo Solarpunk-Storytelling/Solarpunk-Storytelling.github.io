@@ -93,15 +93,33 @@ body {
 }
 
 body {
-  background-color: var(--bgColor, var(--hopbush));
-  background-image: var(--grad);
-  background-repeat: no-repeat;
+  background: linear-gradient(to bottom, transparent 80vh, var(--ellipseColor, var(--jordy-blue)) 0), var(--bgColor, var(--hopbush));
+}
+
+main {
+  position: relative;
+  overflow: hidden;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
+
+main::before {
+  --clip: circle(80% at 50% 80%);
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 150vw;
+  background-color: var(--ellipseColor, var(--jordy-blue));
+  --webkit-clip-path: var(--clip);
+  clip-path: var(--clip);
+  z-index: -1;
 }
 
 
-main {
-  margin-top: 1rem;
-  margin-bottom: 3rem;
+main.custom-bg::before {
+  display: none;
 }
 
 .main--story {
@@ -117,6 +135,8 @@ img {
   display: flex;
   justify-content: space-between;
   gap: 1rem;
+  position: relative;
+  z-index: 1;
 }
 
 @media (min-width: 900px) {
