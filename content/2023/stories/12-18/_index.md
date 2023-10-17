@@ -1,8 +1,8 @@
 ---
 title: 12–18
-ellipse: "/images/cream-ellipse-2.png"
 backgroundColor: perano
 titleColor: perano-2
+ellipseColor: onahau
 image: "/images/butterfly.png"
 ---
 

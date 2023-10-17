@@ -6,11 +6,6 @@ author: Jo Syz
 image: "/images/stories/the librarian.jpg"
 altimage: The Librarian
 imageCredit: Illustration by ???
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
 
 

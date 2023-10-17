@@ -2,6 +2,7 @@
 layout: 'prizes'
 title: The Prizes
 image: "/images/flower.png"
+titleColor: banana-mania
 images: [
     {
         title: 'image description',

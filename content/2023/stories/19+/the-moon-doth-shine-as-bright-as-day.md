@@ -3,15 +3,6 @@ layout: "story"
 menu: story
 title: The Moon Doth Shine As Bright As Day
 author: Anna Orridge
-image: "/images/joao-blood-oil.jpg"
-imageType: pencil
-altimage: lovely picture
-imageCredit: Illustration by João Queiroz.
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
 
 Joseph had never liked being called the school Premises Manager. He knew the title was meant to confer a certain authority on him, but he much preferred the old word – caretaker. He took care. He’d pay attention to that odd plaintive whistle from a radiator, a sign that a bleed that was due. He’d see the blotch of mould in the corner of the boys’ toilets, note the chipped hand basin with a sharp edge.

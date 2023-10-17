@@ -6,11 +6,6 @@ author: Lesley Goldie
 image: "/images/stories/awakening tree 2.png"
 altimage: The Awakening
 imageCredit: Illustration by ???
-backgroundColor: azure
-titleColor: banana-mania
-ellipse: "/images/jordy-blue-ellipse-1.svg"
-ellipseYPos: -4%
-textBackgroundColor: jordy-blue
 ---
 
 

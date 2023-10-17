@@ -4,9 +4,6 @@ menu: about
 title: About the Prizes
 comments: false
 image: "/images/flower.png"
-ellipse: "/images/golden-ellipse-big.png"
-ellipseXPos: 69vw
-ellipseYPos: -100vh
 backgroundColor: jordy-blue
 titleColor: hopbush-2
 ---
