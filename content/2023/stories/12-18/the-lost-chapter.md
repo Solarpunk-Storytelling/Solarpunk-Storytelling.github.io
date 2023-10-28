@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: The Lost Chapter
 author: Renee Huang
+image: "/images/stories/The Lost Chapter - Commando Jugenstil.png"
+altimage: The Lost Chapter
+imageCredit: Illustration by Commando Jugenstil
 ---
 
 

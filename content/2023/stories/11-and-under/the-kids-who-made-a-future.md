@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: The Kids Who Made a Future
 author: Phoebe Harris
+image: "/images/stories/the kids who made a future by Tinnei Pang.jpeg"
+altimage: The Kids Who Made a Future
+imageCredit: Illustration by Tinnei Pang
 ---
                                       
 Once upon a time there was a girl who loved nature. But she could see that our world was in danger. That little girl was Phoebe. Her best friend Arianne also wanted to help the environment. One day they were sitting on the sofa thinking of ideas for what to plant in the garden, when Arianne had the best idea ever! “Phoebe, this is nothing to do with planting but what if we made a time machine to see how good or bad the pollution is?” Arianne asked. “Okay, but it would have to be solar powered!” Phoebe replied. So that’s exactly what they did. People said they couldn’t, but did that stop them? No! Their friend Jake said to follow their dreams no matter what. They went to see some professional engineers to help them with their design. The people who helped them said that they wouldn’t have to pay if, when it was finished, they could go in it too! 

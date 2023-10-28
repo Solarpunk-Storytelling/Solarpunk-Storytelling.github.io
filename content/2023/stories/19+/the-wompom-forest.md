@@ -5,7 +5,7 @@ title: The Wompom Forest
 author: Luke Lanyon-Hogg
 image: "/images/stories/WompomForestEdited.jpg"
 altimage: The Wompom Forest
-imageCredit: Illustration by ???
+imageCredit: Illustration by Sam Fontaine
 ---
 
 Burt was not a bad person; he just took his job as Chief Guardian of the Wompom Forest very seriously. The Wompom Tree was quite simply the most useful and valuable thing in the world. The entire community depended on it for everything, because quite simply, there was nothing a Wompom could not do.

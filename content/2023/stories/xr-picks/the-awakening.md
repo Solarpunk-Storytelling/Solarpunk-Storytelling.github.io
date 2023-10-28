@@ -5,7 +5,7 @@ title: The Awakening
 author: Lesley Goldie
 image: "/images/stories/awakening tree 2.png"
 altimage: The Awakening
-imageCredit: Illustration by ???
+imageCredit: Illustration by Dustin Jacobus
 ---
 
 

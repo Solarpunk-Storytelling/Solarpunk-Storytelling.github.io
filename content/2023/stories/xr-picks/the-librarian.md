@@ -5,7 +5,7 @@ title: The Librarian
 author: Jo Syz
 image: "/images/stories/the librarian.jpg"
 altimage: The Librarian
-imageCredit: Illustration by ???
+imageCredit: Illustration by Sam Fontaine
 ---
 
 

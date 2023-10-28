@@ -5,7 +5,7 @@ title: Adder’s Crystal
 author: Campbell Waldron
 image: "/images/stories/AddersCrystal.jpg"
 altimage: Adder's Crystal
-imageCredit: Illustration by ???.
+imageCredit: Illustration by Rita Fei
 ---
 
 Adder stared quizzically at the dried and brittle thing in her line of vision, which had been a flower only three months before. A cold northern wind blew the delicate husk of its stem from side to side like an old disjointed fence post caught in a tornado.

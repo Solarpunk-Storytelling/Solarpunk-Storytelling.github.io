@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: Less Fear
 author: Catherine Knight
+image: "/images/stories/Less Fear by Marc Ngui.jpg"
+altimage: Less Fear
+imageCredit: Illustration by  Marc Ngui
 ---
 
 
