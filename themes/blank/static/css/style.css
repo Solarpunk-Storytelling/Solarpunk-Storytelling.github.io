@@ -117,6 +117,9 @@ main::before {
   z-index: -1;
 }
 
+.layout-about .main::before {
+  display: none;
+}
 
 main.custom-bg::before {
   display: none;
@@ -1087,16 +1090,28 @@ banner a {
   width: 100%;
   max-width: 350px;
   margin: 0 auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
 @media (min-width: 900px) {
   .judges__section {
     grid-column: 1 / -1;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+  }
+
+  .judges__section + .judges__section {
+    margin-top: 3rem;
   }
 
   .judges__section > * {
     grid-row: 1;
+  }
+
+  .judges__section:nth-of-type(odd) {
+    grid-template-columns: 1fr 2fr;
   }
 
   .judges__section:nth-of-type(odd) .judges__img-col {
@@ -1105,6 +1120,14 @@ banner a {
 
   .judges__section:nth-of-type(even) .judges__img-col {
     grid-column: 2;
+  }
+
+  .judges__img {
+    margin: 0 0 0 auto;
+  }
+
+  .judges__section:nth-of-type(even) .judges__img {
+    margin: 0 auto 0 0;
   }
 }
 
