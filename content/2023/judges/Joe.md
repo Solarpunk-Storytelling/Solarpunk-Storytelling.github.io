@@ -1,6 +1,6 @@
 ---
 title: Joe Tankersley
-image: "content/images/judges/2023/Joe Tankersley.jpg"
+image: "/images/judges/2023/Joe Tankersley.jpg"
 ---
 
-Another judge
+Joe Tankersley is a wandering storyteller, futurist, and advocate for better tomorrows. His previous careers include bartending, filmmaking, and creating magical places for Walt Disney Imagineering.
