@@ -228,7 +228,7 @@ img {
   flex-wrap: wrap;
   align-items: start;
   font-size: inherit;
-  background-color: var(--bgColor);
+  background-color: var(--bgColor, var(--black-3));
   padding-top: 5rem;
 }
 
@@ -418,8 +418,6 @@ h1 {
   letter-spacing: -0.1rem;
   line-height: 1;
   word-wrap: break-word;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 #content-container h1,
@@ -515,7 +513,7 @@ p2 {
 /* FRONT PAGE  */
 #front-container {
   margin-inline: auto;
-  max-width: 1400px;
+  max-width: 1600px;
   padding-inline: 1rem;
   padding-bottom: 1rem;
   color: var(--festival);
@@ -527,13 +525,22 @@ p2 {
 
 @media (min-width: 900px) {
   #front-container .row {
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     align-items: center;
-    gap: 1rem;
+    gap: 3rem;
     min-height: 100vh;
-    padding-top: 13rem;
-    padding-bottom: 3rem;
+  }
+
+  #front-container {
+    padding: 8rem 3rem 3rem 3rem;
+  }
+}
+
+@media (min-width: 1600px) {
+  #front-container {
+    padding: 13rem 3rem 3rem 3rem;
   }
 }
 
