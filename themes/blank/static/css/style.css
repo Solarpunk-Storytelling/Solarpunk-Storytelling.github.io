@@ -470,44 +470,10 @@ h6 {
 
   font-style: italic;
 }
-h7 {
-  text-align: right;
-
-  font-size: 19px;
-
-  font-style: italic;
-}
-h8 {
-  margin-left: 40%;
-
-  font-size: 19px;
-
-  font-style: italic;
-}
-h9 {
-  font-size: 19px;
-}
-h10 {
-  font-size: 16px;
-  color: var(--white);
-}
-h11 {
-  font-size: 16px;
-  color: var(--white);
-}
 
 p,
 li {
   font-size: var(--font-size-xxs);
-}
-
-p2 {
-  font-size: 20px;
-  display: block;
-  margin-block-start: 1em;
-  margin-block-end: 1em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
 }
 
 /* FRONT PAGE  */
