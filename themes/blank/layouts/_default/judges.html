@@ -10,7 +10,9 @@
         {{ $img := .Params.image }}
         <section class="judges__section">
           <div class="judges__img-col">
-            <img src="{{ $img }}" class="judges__img" alt="{{ .Title }}" />
+            {{ if isset .Params "image" }}
+              <img src="{{ $img }}" class="judges__img" alt="{{ .Title }}" />
+            {{ end }}
           </div>
           
           <div class="judges__col">

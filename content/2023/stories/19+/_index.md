@@ -5,5 +5,3 @@ titleColor: red-violet
 ellipseColor: dust-storm
 image: "/images/toadstool.png"
 ---
-
-19+ category

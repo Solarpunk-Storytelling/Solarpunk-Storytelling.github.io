@@ -5,5 +5,3 @@ titleColor: red-violet
 ellipseColor: festival-2
 image: "/images/bird3.png"
 ---
-
-XR picks category
