@@ -538,13 +538,30 @@ p2 {
 }
 
 .main-title {
-  font-size: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
+  text-align: center;
 }
 
 .main-title span:first-child {
   display: block;
-  font-size: var(--font-size-l);
+  font-size: var(--font-size-m);
   margin-bottom: 0.25em;
+}
+
+@media (min-width: 700px) {
+  .main-title {
+    font-size: var(--font-size-xxl);
+  }
+
+  .main-title span:first-child {
+    font-size: var(--font-size-l);
+  }
+}
+
+@media (min-width: 900px) {
+  .main-title {
+    text-align: left;
+    font-size: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
+  }
 }
 
 
