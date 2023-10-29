@@ -45,9 +45,10 @@
 }
 
 body {
+  background-color: var(--bgColor, var(--festival-2));
   margin: 0;
   font-family: var(--font-family-crimson_text);
-  background-color: var(--festival-2);
+  /* background-color: var(--festival-2); */
   font-size: var(--font-size-body);
   line-height: 1.4;
   padding-bottom: var(--space);
@@ -71,13 +72,6 @@ a:focus {
 
 p {
   max-width: 60ch;
-}
-
-.logo {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  max-width: 100px;
 }
 
 h1 {
@@ -114,12 +108,6 @@ h1 span:first-child {
   max-width: 100%;
 }
 
-@media (min-width: 40em) {
-  .logo {
-    max-width: 200px;
-  }
-}
-
 @supports (padding: clamp(1rem, 5vw, 6rem)) {
   .wrapper {
     padding: 0 clamp(1rem, 5vw, 6rem);
@@ -131,11 +119,5 @@ h1 span:first-child {
 
   h1 {
     margin-top: clamp(6rem, 15vw, 10rem);
-  }
-
-  @media (min-width: 40em) {
-    .logo {
-      max-width: clamp(100px, 30vw, 16rem);
-    }
   }
 }

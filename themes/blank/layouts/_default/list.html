@@ -1,0 +1,39 @@
+{{ define "main" }}
+<main>
+  <article>
+    <div class="storycategories-container">
+      <h1 class="storycategories__title">{{ .Title }}</h1>
+
+      <div class="storycategories__content">{{ index .Content }}</div>
+
+      {{ $img := .Params.image }}
+      
+      <section class="storycategories__section">
+        <div class="storycategories__img">
+          <img src="{{ $img }}" class="storycategories__section-img" />
+        </div>
+        <ul class="storycategories__list">
+          {{ range .Pages }}
+            <li>
+              <a class="storycategories__link" href="{{ .Permalink }}">
+                <span class="storycategories__story-title">{{ .Title }}</span>
+              </a>
+              {{ with .Params.author }}
+                <p class="storycategories__author">by {{ . }}</p>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+  </article>
+</main>
+<style>
+  body {
+    --bgColor: var(--{{.Params.backgroundColor}});
+    --titleColor: var(--{{ .Params.titleColor }});
+    --ellipseColor: var(--{{ .Params.ellipseColor }});
+    --bgEllipse: url({{ .Params.ellipse }});
+  }
+</style>
+{{ end }}

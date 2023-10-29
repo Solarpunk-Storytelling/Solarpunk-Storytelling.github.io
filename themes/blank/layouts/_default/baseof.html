@@ -23,9 +23,10 @@
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 </head>
-<body>
+<body class="layout-{{ .Params.layout }}">
 	{{ partial "header" . }}
 	{{ block "main" . }}{{ end }}
+	<script src="/js/index.js" defer></script>
 </body>
 </html>
 

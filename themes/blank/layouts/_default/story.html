@@ -1,61 +1,43 @@
 {{ define "main" }}
-	<main>
-		<!-- <div class="ellipse-content"></div> -->
+	<main class="main--story">
 		<article>
 			<div id="content-container">
-			<h1>{{ .Title }}</h1>
-			<h2>{{ .Params.author }}</h2>
-			<img src={{.Params.image}} class={{.Params.imageType}} alt={{.Params.altimage}} >
-				<div class="storyCaption">{{ .Params.imageCredit}} </div>
-			<div class="story-text">
-				{{ .Content }}
-				<br><br><br><br><br>
-				<img src="/images/rectangle-43-19@1x.png" class="pencil">
-				<br><br><br><br><br>
+				<h1 class="story__title">{{ .Title }}</h1>
+				<p class="story__author">{{ .Params.author }}</p>
+				{{ if isset .Params "image" }}
+					<figure class="story__figure">
+						<img src={{ .Params.image }} class="story__image" alt={{ .Params.altimage }} >
+						<figcaption class="storyCaption">{{ .Params.imageCredit }}</figcaption>
+					</figure>
+				{{ else }}
+					<figure class="story__figure story__figure--empty">
+						<figcaption class="storyCaption">Image coming soon!</figcaption>
+					</figure>
+				{{ end }}
 			</div>
-	
+			<div class="story__text-wrapper">
+				<div class="container">
+					<div class="story-text">
+						{{ .Content }}
+						<img src="/images/rectangle-43-19@1x.png" class="story__pencil">
+					</div>
+				</div>
 			</div>
 		</article>
 	</main>
 
 	<style>
 		body {
-			background-color: var(--{{ .Params.backgroundColor }});
-			background-image: url({{ .Params.ellipse }});
-			background-repeat: no-repeat;
-			background-position: 50% {{ .Params.ellipseypos }}; /* CHANGES POSITION OF SHAPE */
-			background-size: 200% auto;
-		}
+			--paramsBGColor: var(--{{.Params.backgroundColor}});
+			--paramsTitleColor: var(--{{.Params.titleColor}}, var(--banana-mania));
+			--paramsEllipseColor: var(--{{.Params.ellipseColor}});
+			--paramsTextBackgroundColor: var(--{{.Params.textBackgroundColor}});
 
-		.ellipse-content {
-    		background-color: var(--{{ .Params.ellipseColor }});
-		}
-		.story-text {
-			background-color: var(--{{ .Params.textBackgroundColor }});
-		}
-		h1{
-			color: var(--{{ .Params.titleColor }});
-		}
-		.dropdown-content {
-  			background-color: var(--{{ .Params.backgroundColor }});
-		}
-
-		.ellipse-content {
-
-    		top: {{ .Params.ellipseYPos}} !important;
-
-  		}
-
-		a{
-  			color: var(--{{ .Params.titleColor }});
-
-		}
-
-		@media (max-width: 800px) {
-			body {
-    		background-position: -9999px -9999px;
- 		 }
-		
+			--bgColor: var(--paramsBGColor, var(--hopbush-3));
+			--titleColor: var(--paramsTitleColor, var(--banana-mania));
+			--ellipseColor: var(--paramsEllipseColor, var(--jordy-blue));
+			--bgEllipse: url({{ .Params.ellipse }});
+			--storyBgColor: var(--paramsTextBackgroundColor, var(--jordy-blue));
 		}
 	</style>
 {{ end }}

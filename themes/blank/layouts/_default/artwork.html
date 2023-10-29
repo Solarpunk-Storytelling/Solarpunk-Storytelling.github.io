@@ -1,0 +1,35 @@
+{{ define "main" }}
+<main>
+    <article class="container">
+        
+        <div class="artwork__header">
+            <h1 class="artwork__title">{{ .Params.title }}</h1>
+            <div class="text">	
+                {{ .Content }}
+            </div>
+        </div>
+
+        {{ range .Pages }}
+            <section class="artwork__section">
+                <div>
+                    <h2 class="artwork__section-title">{{ .Title }}</h2>
+                    {{ .Content }}
+                </div>
+                <figure class="artwork__figure">
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+                    <figcaption class="caption">{{ .Params.caption }}</figcaption>
+                </figure>
+            </section>
+        {{ end }}
+    </article>
+</main>
+<style>
+    body {
+        --bgColor: var(--{{.Params.backgroundColor}});
+        --titleColor: var(--{{ .Params.titleColor }});
+        --ellipseColor: var(--{{ .Params.ellipseColor }});
+        --bgEllipse: url({{ .Params.ellipse }});
+        --grad: radial-gradient(circle at 50% 150vh, var(--ellipseColor, var(--jordy-blue)) 70vw, transparent 0);
+    }
+</style>
+{{ end }}
