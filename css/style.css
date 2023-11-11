@@ -337,7 +337,7 @@ img {
 /* IMAGES */
 
 .logo {
-  width: clamp(8rem, 30vw, 16rem);
+  width: clamp(8rem, 30vw, 14rem);
   padding: 1rem;
   align-self: start;
   flex: 0 0 auto;
@@ -483,7 +483,6 @@ li {
   padding-inline: 1rem;
   padding-bottom: 1rem;
   color: var(--festival);
-  min-height: calc(100vh - 100px);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -496,11 +495,10 @@ li {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     gap: 3rem;
-    min-height: 100vh;
   }
 
   #front-container {
-    padding: 8rem 3rem 3rem 3rem;
+    padding: 10rem 3rem 3rem 3rem;
   }
 }
 
@@ -533,9 +531,19 @@ li {
 @media (min-width: 900px) {
   .main-title {
     text-align: left;
+  }
+
+  .front-page-img {
+    max-width: 40vw;
+  }
+}
+
+@media (min-width: 1600px) {
+  .main-title {
     font-size: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
   }
 }
+
 
 
 /* STORY LINKS PAGE */
