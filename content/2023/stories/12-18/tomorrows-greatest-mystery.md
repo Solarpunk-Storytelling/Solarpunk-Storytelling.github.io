@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Tomorrow's Greatest Mystery
-author: Ael Magnard
+author: Ink
 image: "/images/stories/Tomorrow's Greatest Secret by Sam Fontaine.png"
 altimage: Tomorrow's Greatest Mystery
 imageCredit: Illustration by Sam Fontaine

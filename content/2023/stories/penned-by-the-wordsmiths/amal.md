@@ -3,6 +3,7 @@ layout: "story"
 menu: story
 title: Amal
 author: Shireen Tawil
+hideImage: false
 ---
 
 
