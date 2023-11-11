@@ -3,6 +3,7 @@ layout: "story"
 menu: story
 title: Colouring In
 author: Mick Haining
+hideImage: false
 ---
 
 

@@ -3,6 +3,7 @@ layout: "story"
 menu: story
 title: 50 Shades of Green
 author: Jeremy Parker
+hideImage: true
 ---
 
 
