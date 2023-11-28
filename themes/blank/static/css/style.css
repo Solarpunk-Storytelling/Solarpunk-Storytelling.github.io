@@ -498,24 +498,26 @@ li {
   }
 
   #front-container {
-    padding: 10rem 3rem 3rem 3rem;
-  }
-}
-
-@media (min-width: 1600px) {
-  #front-container {
-    padding: 13rem 3rem 3rem 3rem;
+    min-height: 100vh;
+    padding: 10rem 3rem;
   }
 }
 
 .main-title {
   text-align: center;
+  margin: 0 0 1rem 0;
 }
 
 .main-title span:first-child {
   display: block;
   font-size: var(--font-size-m);
   margin-bottom: 0.25em;
+}
+
+.front-page-img {
+  max-width: clamp(20rem, 35vw, 60rem);
+  width: 100%;
+  margin: 0 auto;
 }
 
 @media (min-width: 700px) {
@@ -531,14 +533,11 @@ li {
 @media (min-width: 900px) {
   .main-title {
     text-align: left;
-  }
-
-  .front-page-img {
-    max-width: 40vw;
+    margin: 0;
   }
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1500px) {
   .main-title {
     font-size: clamp(4.03rem, calc(3.36rem + 3.36vw), 5.96rem);
   }
