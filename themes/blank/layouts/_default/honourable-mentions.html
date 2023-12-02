@@ -1,0 +1,68 @@
+{{ define "main" }}
+<main>
+  <article>
+    <div class="storycategories-container">
+      <h1 class="storycategories__title">{{ .Title }}</h1>
+
+      <div class="storycategories__content">{{ index .Content }}</div>
+
+      {{ $img := .Params.image }}
+      {{ $img2 := .Params.image2 }}
+      
+      <section class="storycategories__section">
+        <div class="storycategories__img">
+          <img src="{{ $img }}" class="storycategories__section-img" alt="" />
+        </div>
+        <div class="storycategories__section-content">
+          <h2>Under 19</h2>
+          <ul class="storycategories__list">
+            {{ range .Pages }}
+              {{ if eq (.Params.category) "Under 19" }}
+                <li>
+                  <a class="storycategories__link" href="{{ .Permalink }}">
+                    <span class="storycategories__story-title">{{ .Title }}</span>
+                  </a>
+                  {{ with .Params.author }}
+                    <p class="storycategories__author">by {{ . }}</p>
+                  {{ end }}
+                </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+      </section>
+
+      <section class="storycategories__section">
+        <div class="storycategories__img">
+          <img src="{{ $img2 }}" class="storycategories__section-img" alt="" />
+        </div>
+        <div class="storycategories__section-content">
+          <h2>19+</h2>
+          <ul class="storycategories__list">
+            {{ range .Pages }}
+              {{ if eq (.Params.category) "19+" }}
+                <li>
+                  <a class="storycategories__link" href="{{ .Permalink }}">
+                    <span class="storycategories__story-title">{{ .Title }}</span>
+                  </a>
+                  {{ with .Params.author }}
+                    <p class="storycategories__author">by {{ . }}</p>
+                  {{ end }}
+                </li>
+              {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+      </section>
+    </div>
+  </article>
+</main>
+<style>
+  body {
+    --bgColor: var(--{{.Params.backgroundColor}});
+    --titleColor: var(--{{ .Params.titleColor }});
+    --ellipseColor: var(--{{ .Params.ellipseColor }});
+    --bgEllipse: url({{ .Params.ellipse }});
+  }
+</style>
+{{ end }}
