@@ -1,6 +1,6 @@
 ---
 layout: "story"
-title: The Black Forest
-author: Patty Cui
+title: Covid-19
+author: Gloria Su
 category: Under 19
 ---

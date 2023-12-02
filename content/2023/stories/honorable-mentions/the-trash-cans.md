@@ -1,5 +1,6 @@
 ---
 layout: "story"
-title: Talking Trash Cans
+title: The Trash Cans
 author: Austin Jian
+category: Under 19
 ---
