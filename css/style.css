@@ -623,6 +623,18 @@ li {
   .storycategories__section-content {
     grid-row: 1;
   }
+
+  .storycategories__section:nth-child(even) {
+    text-align: left;
+  }
+
+  .storycategories__section:nth-child(even) .storycategories__section-content {
+    grid-column: 1;
+  }
+
+  .storycategories__section:nth-child(even)  .storycategories__img {
+    grid-column: 2;
+  }
 }
 
 .storycategories__content:empty {
