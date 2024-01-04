@@ -3,10 +3,8 @@ layout: "story"
 menu: story
 title: Shell
 author: Cloé
+category: 19+
 ---
-
-
-
 
 “Come back here!” 
 

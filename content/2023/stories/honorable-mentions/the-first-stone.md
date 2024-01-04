@@ -4,10 +4,8 @@ menu: story
 title: The First Stone
 author: Nat
 textBackgroundColor: jordy-blue
+category: 19+
 ---
-
-
-
 
 Tessa was playing at the edge of the boundary line when she first stumbled upon it. Hundreds of polished stones arranged into interconnecting circles at a flat clearing on the hilltop. Against the chestnut and walnut tree bark, it looked as though it was floating. A chilly breeze stirred up the leaves and whirled around her. 
 
