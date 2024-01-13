@@ -1242,7 +1242,7 @@ banner a {
 }
 
 .story__figure--empty {
-  aspect-ratio: 2 /1;
+  /* aspect-ratio: 2 /1; */
   background: var(--bgColor);
   padding: 1rem;
   display: grid;
