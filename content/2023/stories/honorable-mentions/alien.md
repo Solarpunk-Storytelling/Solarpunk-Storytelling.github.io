@@ -6,7 +6,6 @@ author: Vincent Yau
 category: 19+
 ---
 
-
 From the silent darkness comes a beam of light. A weathered face is looking down on us, the eyes narrowing ever so slightly. Over the shoulder of the onlooker comes a cry, “Over here!” Some of us look over in the direction from which the booming voice comes. Others are simply too exhausted to even open their eyes. Their skulls gently rocking atop their spines as the bitter waves push and pull below us, enticing us downward. 
 
 I hold my hand up, blocking the piercing stream of light that bores down on us, scanning over us like a sentry in a watchtower. From above they float downward, ethereal. I scrunch my eyes as salt water spits and sprays in the air, stinging my face. I blink away tears as I realise the looming figure is coming down towards us, their alien blue eyes casting over us all huddled together. Then they stop dead on me. 

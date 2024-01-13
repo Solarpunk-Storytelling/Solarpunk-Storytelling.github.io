@@ -6,13 +6,13 @@ author: Kirsty O'Connor
 category: 19+
 ---
 
-# Atlantic***Monthly***
+# Atlantic ***Monthly***
 
-## The Inspirational Women profile  &nbsp; ***Angelique MacLeod***
+## The Inspirational Women profile
+***Angelique MacLeod***
 
-###  Interview by Sophie O’Mara  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ***19th August 2052***
-
-&nbsp;
+### Interview by Sophie O’Mara
+***19th August 2052***
 
 This month we are featuring one of the many remarkable women who have steered us through
 these incredibly challenging times, transitioning into a new way of living with nature and
