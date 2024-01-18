@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: Save the World
 author: Gaia Shah
+image: "/images/stories/save-the-world_commando-jugendstil.jpg"
+altimage: Illustration of a child drawing a picture of the White House, while a cat watches
+imageCredit: Illustration by Commando Jugendstil
 ---
 
 It all started when the world was filled with fumes and stuff like that. 
