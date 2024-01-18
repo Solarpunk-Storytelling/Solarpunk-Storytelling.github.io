@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: The Parallel Lives of Clara McDonald
 author: Helen Holt
+image: "/images/stories/parallel-lives_nicole-lobos.jpg"
+altimage: Illustration of a child curled up in bed in a red nightgown
+imageCredit: Illustration by Nicole Lobos
 ---
 
 
