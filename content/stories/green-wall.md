@@ -2,7 +2,7 @@
 layout: "story"
 menu: story
 title: Green Wall
-author: by Clare Harvey
+author: Clare Harvey
 image: "/images/rectangle-43-19@1x.png"
 imageType: pencil
 backgroundColor: yellow-green
