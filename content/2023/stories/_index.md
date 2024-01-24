@@ -24,11 +24,11 @@ categories: [
   },
   {
     title: 'Honorable Mentions',
-    url: '/2023/honorable-mentions'
+    url: '/2023/stories/honorable-mentions'
   },
   {
     title: 'Penned by the XR Wordsmiths',
-    url: '/2023/penned-by-the-wordsmiths'
+    url: '/2023/stories/penned-by-the-wordsmiths'
   }
 ]
 ---
