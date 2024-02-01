@@ -1,9 +1,7 @@
 ---
 title: Runners Up
 backgroundColor: mandy
-titleColor: banana-mania
+titleColor: perano-2
 ellipseColor: festival-2
 image: "/images/bird2.png"
 ---
-
-Runners Up category

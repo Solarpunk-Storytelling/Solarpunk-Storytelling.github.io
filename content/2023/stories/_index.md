@@ -29,6 +29,10 @@ categories: [
   {
     title: 'Penned by the XR Wordsmiths',
     url: '/2023/stories/penned-by-the-wordsmiths'
+  },
+  {
+    title: 'Runners Up',
+    url: '/2023/stories/runners-up'
   }
 ]
 ---
