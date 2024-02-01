@@ -2,12 +2,9 @@
 layout: "story"
 menu: story
 title: Mily's Adventure of Future Houses
+category: Under 11
 author: Taffy Sung
 ---
-
-
-
-
   
 Once there was a girl called Mily. She was a very kind child; she cared about the Earth a lot. She knew that the earth was turning warm because people kept cutting down trees and there will be no trees to give us clean oxygen.
 

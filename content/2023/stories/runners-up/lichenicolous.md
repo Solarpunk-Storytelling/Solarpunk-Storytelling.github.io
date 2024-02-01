@@ -2,6 +2,7 @@
 layout: "story"
 menu: story
 title: Lichenicolous
+category: 19+
 author: Heather Forbes
 ---
 
