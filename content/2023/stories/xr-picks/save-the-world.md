@@ -3,6 +3,9 @@ layout: "story"
 menu: story
 title: Save the World
 author: Gaia Shah
+image: "/images/stories/gaia-shah-save-the-world.jpg"
+altimage: The original, handwritten story
+imageCredit: The original, handwritten story
 ---
 
 It all started when the world was filled with fumes and stuff like that. 
