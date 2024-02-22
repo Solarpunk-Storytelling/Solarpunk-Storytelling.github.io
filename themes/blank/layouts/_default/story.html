@@ -11,10 +11,6 @@
 							<img src={{ .Params.image }} class="story__image" alt={{ .Params.altimage }} >
 							<figcaption class="storyCaption">{{ .Params.imageCredit }}</figcaption>
 						</figure>
-					{{ else }}
-						<figure class="story__figure story__figure--empty">
-							<figcaption class="storyCaption">Image coming soon!</figcaption>
-						</figure>
 					{{ end }}
 				{{ end }}
 			</div>
