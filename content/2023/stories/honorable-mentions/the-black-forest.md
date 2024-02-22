@@ -1,7 +1,7 @@
 ---
 layout: "story"
 title: The Black Forest
-author: Patty Cui
+author: Patty Tsui
 category: Under 19
 ---
 
