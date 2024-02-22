@@ -3,9 +3,9 @@ layout: "story"
 menu: story
 title: Save the World
 author: Gaia Shah
-image: "/images/stories/gaia-shah-save-the-world.jpg"
+image: "/images/stories/gaia-shah-save-the-world-artwork.jpg"
 altimage: The original, handwritten story
-imageCredit: The original, handwritten story
+imageCredit: illustration by Sam Fontaine
 ---
 
 It all started when the world was filled with fumes and stuff like that. 
@@ -20,3 +20,5 @@ Then he farted but it didn’t stink.
 
 The end.
 Save the world.
+
+![The original, handwritten image](/images/stories/gaia-shah-save-the-world-original.jpg "The original, handwritten image")
